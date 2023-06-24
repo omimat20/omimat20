@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_car_store,access.car.store,model_car_store,,1,1,1,1
+access_companies,access.companies,model_companies,,1,1,1,1
